@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Place apache in the container
+service apache2 start
